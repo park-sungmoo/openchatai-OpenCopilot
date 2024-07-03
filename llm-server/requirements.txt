@@ -175,7 +175,7 @@ sentry_sdk==1.39.1
 anthropic==0.8.1
 stripe~=7.10.0
 setuptools~=68.2.2
-Flask-Caching==2.1.0
+Flask-Caching==2.3.0
 scrapingbee==2.0.1
 Flask-JWT-Extended==4.6.0
 aioredis==2.0.1
